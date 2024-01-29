@@ -11,39 +11,30 @@
 						Sample of some of my projects
 					</p>
 				</div>
+				<div class="wow fadeIn section-title text-center mb-4 pb-2">
+					<div class="mb-5 pb-3">
+						<i class="far fa-clone h1 text-muted"></i>
+					</div>
+					<h2 class="h3 font-weight-bold">My Latest Projects</h2>
+					<!-- <img src="../../assets/images/portfolio/Blog.gif" alt="" class="image1"> -->
+					<img src="../../assets/images/portfolio/rui.gif" alt="" class="image1">
+					<!-- <img src="../../assets/images/portfolio/proprietaryAI.gif" alt="" class="image1"> -->
+					<!-- <img src="../../assets/images/portfolio/Blog.gif" alt="" class="image1"> -->
+				</div>
 			</div>
 		</div>
 		<div class="row container-grid mt-4 pt-2">
-			<div
-				*ngFor="let project of portfolioData"
-				class="wow {{ project['animationClass'] }} col-lg-4 spacing"
-				[attr.data-wow-delay]="[project['delay']]"
-			>
-				<ng-template #title
-					><strong>
+			<div *ngFor="let project of portfolioData" class="wow {{ project['animationClass'] }} col-lg-4 spacing"
+				[attr.data-wow-delay]="[project['delay']]">
+				<ng-template #title><strong>
 						<em>Click To Checkout My Code.</em>
-					</strong></ng-template
-				><a
-					class="item-box m-2"
-					[placement]="[project['placement']]"
-					[ngbTooltip]="title"
-					rel="noreferrer"
-					aria-label="project(opens in a new tab)"
-					href="https://github.com/hightecular95908/{{
+					</strong></ng-template><a class="item-box m-2" [placement]="[project['placement']]"
+					[ngbTooltip]="title" rel="noreferrer" aria-label="project(opens in a new tab)" href="https://github.com/hightecular95908/{{
 						project['github']
-					}}"
-					target="_blank"
-					><img
-						class="item-container img-fluid mx-auto"
-						src="assets/images/portfolio/{{
+					}}" target="_blank"><img class="item-container img-fluid mx-auto" src="assets/images/portfolio/{{
 							project['project']
-						}}.webp"
-						alt="{{ project['project'].replaceAll('-', ' ') }}"
-						title="{{ project['project'].replaceAll('-', ' ') }}"
-						width="698"
-						height="543"
-						loading="lazy"
-					/>
+						}}.webp" alt="{{ project['project'].replaceAll('-', ' ') }}"
+						title="{{ project['project'].replaceAll('-', ' ') }}" width="698" height="543" loading="lazy" />
 					<div class="item-mask">
 						<div class="item-caption text-white text-center">
 							<h3 class="h5">
@@ -53,8 +44,8 @@
 								{{ project["description"] }}
 							</p>
 						</div>
-					</div></a
-				>
+					</div>
+				</a>
 			</div>
 		</div>
 	</div>
