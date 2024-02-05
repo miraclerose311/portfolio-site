@@ -15,16 +15,7 @@
 
 <br/>
 
-<div align="center">
-	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
-		<img src="src/screenshots/avatar.jpg" alt="Logo" width="80" height="80"/>
-	</a>
-	<h3 align="center">Takao Momoto (hightecular95908)'s Personal Portfolio</h3>
-	<p align="center">
-		This is the source code for my Personal Portfolio.
-		<br/>
-	</p>
-</div>
+
 
 <br/>
 
