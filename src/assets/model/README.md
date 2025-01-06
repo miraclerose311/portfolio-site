@@ -1588,11 +1588,11 @@
 |   |   \---textures
 |   |           shaman-costume-blue.webp
 |   |           
-|   +---sinsiroad-shop-costume-junior
+|   +---sinsiroad-shop-costume-Senior
 |   |   |   index.json
 |   |   |   
 |   |   \---textures
-|   |           sinsiroad-shop-costume-junior.webp
+|   |           sinsiroad-shop-costume-Senior.webp
 |   |           
 |   +---sinsiroad-shop-costume-senior
 |   |   |   index.json
