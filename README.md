@@ -508,7 +508,7 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 	<a href="https://www.linkedin.com/in/hightecular95908"> 
     	<img alt="Connect via LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   	</a>
-	<a href="mailto:pioneer95908@gmail.com"> 
+	<a href="mailto:vadymklymchuk33@gmail.com"> 
 		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://www.twitter.com/hightecular95908"> 
