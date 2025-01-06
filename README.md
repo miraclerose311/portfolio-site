@@ -500,7 +500,7 @@ PageSpeed Insights (PSI) reports on the performance of a page on both mobile and
 
 ## Creator / Maintainer :man_technologist:
 
-👤 Takao Momoto ([hightecular95908](https://github.com/hightecular95908))
+👤 Vadym Klymchuk ([hightecular95908](https://github.com/hightecular95908))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
@@ -542,7 +542,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://hightecular95908.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Takao Momoto"/><br /><sub><b>Takao Momoto</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Code">💻</a> <a href="#ideas-hightecular95908" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Tests">⚠️</a> <a href="#maintenance-hightecular95908" title="Maintenance">🚧</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Documentation">📖</a> <a href="#design-hightecular95908" title="Design">🎨</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/pulls?q=is%3Apr+reviewed-by%3Ahightecular95908" title="Reviewed Pull Requests">👀</a> <a href="#content-hightecular95908" title="Content">🖋</a> <a href="#a11y-hightecular95908" title="Accessibility">️️️️♿️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://hightecular95908.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt="Vadym Klymchuk"/><br /><sub><b>Vadym Klymchuk</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Code">💻</a> <a href="#ideas-hightecular95908" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Tests">⚠️</a> <a href="#maintenance-hightecular95908" title="Maintenance">🚧</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Documentation">📖</a> <a href="#design-hightecular95908" title="Design">🎨</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/pulls?q=is%3Apr+reviewed-by%3Ahightecular95908" title="Reviewed Pull Requests">👀</a> <a href="#content-hightecular95908" title="Content">🖋</a> <a href="#a11y-hightecular95908" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt="Anchal Pandey"/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
@@ -561,4 +561,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
-Copyright &copy; 2021 Takao Momoto. All rights reserved. 
+Copyright &copy; 2021 Vadym Klymchuk. All rights reserved. 
