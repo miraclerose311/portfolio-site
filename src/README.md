@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://hightecular95908.github.io/">hightecular95908.github.io</a> - v2.0
+	<a href="https://miraclerose311.github.io/">miraclerose311.github.io</a> - v2.0
 	<p align="center">
 		<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
 		<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
@@ -16,39 +16,39 @@
 <br/>
 
 <div align="center">
-	<a href="https://github.com/hightecular95908/hightecular95908.github.io">
+	<a href="https://github.com/miraclerose311/miraclerose311.github.io">
 		<img src="screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Masahiro Yamada (hightecular95908)'s Personal Portfolio</h3>
+	<h3 align="center">Masahiro Yamada (miraclerose311)'s Personal Portfolio</h3>
 	<p align="center">
 		This is the source code for my Personal Portfolio.
 		<br/>
-		<a href="https://github.com/hightecular95908/hightecular95908.github.io"><strong>Explore the docs »</strong></a>
+		<a href="https://github.com/miraclerose311/miraclerose311.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
 		<br/>
-		<a href="https://hightecular95908.github.io/">View Demo</a>
+		<a href="https://miraclerose311.github.io/">View Demo</a>
 		·
-		<a href="https://github.com/hightecular95908/hightecular95908.github.io/issues/new?assignees=hightecular95908&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
+		<a href="https://github.com/miraclerose311/miraclerose311.github.io/issues/new?assignees=miraclerose311&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
 		·
-		<a href="https://github.com/hightecular95908/hightecular95908.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
+		<a href="https://github.com/miraclerose311/miraclerose311.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p>
-		<img src="https://img.shields.io/github/contributors/hightecular95908/hightecular95908.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/hightecular95908/hightecular95908.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/hightecular95908/hightecular95908.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/hightecular95908/hightecular95908.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/hightecular95908/hightecular95908.github.io"/>
+		<img src="https://img.shields.io/github/contributors/miraclerose311/miraclerose311.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
+		<img src="https://img.shields.io/github/forks/miraclerose311/miraclerose311.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
+		<img src="https://img.shields.io/github/stars/miraclerose311/miraclerose311.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
+		<img src="https://img.shields.io/github/issues/miraclerose311/miraclerose311.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
+		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/miraclerose311/miraclerose311.github.io"/>
 	</p>
 	<p>
-		<img alt="Github Deployment Status" src="https://github.com/hightecular95908/hightecular95908.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/hightecular95908/hightecular95908.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
+		<img alt="Github Deployment Status" src="https://github.com/miraclerose311/miraclerose311.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
+		<img src="https://github.com/miraclerose311/miraclerose311.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
 	</p>
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https://hightecular95908.github.io/">
+  <a href="https://miraclerose311.github.io/">
     <img src="screenshots/screenshot.gif" alt="landing page"/>
   </a>
 </p>
@@ -113,7 +113,7 @@
 
 ### Icon
 
-This is the icon of me in [hightecular95908.github.io](https://hightecular95908.github.io)
+This is the icon of me in [miraclerose311.github.io](https://miraclerose311.github.io)
 
 <img alt="Me Icon" src="screenshots/icon.png" width="192">
 
@@ -134,9 +134,9 @@ Insert the following code in the `<head>` section of your pages to support favic
 <meta name="msapplication-TileImage" content="assets/images/mstile-310x310.png">
 ```
 
-Results :- [100%](https://realfavicongenerator.net/favicon_checker?protocol=https&site=hightecular95908.github.io)
+Results :- [100%](https://realfavicongenerator.net/favicon_checker?protocol=https&site=miraclerose311.github.io)
 
-These are the Font Awesome Icons used in [hightecular95908.github.io](https://hightecular95908.github.io)
+These are the Font Awesome Icons used in [miraclerose311.github.io](https://miraclerose311.github.io)
 
 <img alt="Font Awesome Icon" src="screenshots/font-awesome-icon.png">
 
@@ -169,17 +169,17 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Clone the repository :
 	- With HTTPS:
 	  ```bash
-	  git clone https://github.com/hightecular95908/hightecular95908.github.io.git
+	  git clone https://github.com/miraclerose311/miraclerose311.github.io.git
 	  ```
 	- With SSH:
 	  ```bash
-	  git@github.com:hightecular95908/hightecular95908.github.io.git
+	  git@github.com:miraclerose311/miraclerose311.github.io.git
 	  ```
 
 - Navigate to working Directory and **main** branch
 
   ```bash
-  cd hightecular95908.github.io
+  cd miraclerose311.github.io
   git switch main
   ```
 
@@ -234,24 +234,24 @@ Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) ins
 docker --version
 ```
 
-- To pull the [GitHub Container Registry](https://github.com/hightecular95908/hightecular95908.github.io/pkgs/container/hightecular95908.github.io) Image:
+- To pull the [GitHub Container Registry](https://github.com/miraclerose311/miraclerose311.github.io/pkgs/container/miraclerose311.github.io) Image:
   ```bash
-  docker pull ghcr.io/hightecular95908/hightecular95908.github.io:latest
+  docker pull ghcr.io/miraclerose311/miraclerose311.github.io:latest
   ```
 
-- To pull the [Dockerhub](https://hub.docker.com/r/hightecular95908/hightecular95908.github.io) Image:
+- To pull the [Dockerhub](https://hub.docker.com/r/miraclerose311/miraclerose311.github.io) Image:
   ```bash
-  docker pull hightecular95908/hightecular95908.github.io:latest
+  docker pull miraclerose311/miraclerose311.github.io:latest
   ```
 
-- To automatically pull and run the [GitHub Container Registry](https://github.com/hightecular95908/hightecular95908.github.io/pkgs/container/hightecular95908.github.io) Image:
+- To automatically pull and run the [GitHub Container Registry](https://github.com/miraclerose311/miraclerose311.github.io/pkgs/container/miraclerose311.github.io) Image:
   ```bash
-  docker run -d -p 4200:80 ghcr.io/hightecular95908/hightecular95908.github.io:latest
+  docker run -d -p 4200:80 ghcr.io/miraclerose311/miraclerose311.github.io:latest
   ```
 
-- To automatically pull and run the [Dockerhub](https://hub.docker.com/r/hightecular95908/hightecular95908.github.io) Image:
+- To automatically pull and run the [Dockerhub](https://hub.docker.com/r/miraclerose311/miraclerose311.github.io) Image:
   ```bash
-  docker run -d -p 4200:80 hightecular95908/hightecular95908.github.io:latest
+  docker run -d -p 4200:80 miraclerose311/miraclerose311.github.io:latest
   ```
   
   Open [http://localhost:4200/](http://localhost:4200/) to view it in the Default Browser.
@@ -470,27 +470,27 @@ PageSpeed Insights (PSI) reports on the performance of a page on both mobile and
 
 - **Desktop**
 
-  [![PageSpeed Insight Desktop](screenshots/PageSpeedInsight%20Desktop.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fhightecular95908.github.io%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
+  [![PageSpeed Insight Desktop](screenshots/PageSpeedInsight%20Desktop.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fmiraclerose311.github.io%2F&strategy=desktop&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
 
 - **Mobile**
 
-  [![PageSpeed Insight Mobile](screenshots/PageSpeedInsight%20Mobile.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fhightecular95908.github.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
+  [![PageSpeed Insight Mobile](screenshots/PageSpeedInsight%20Mobile.png)](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fmiraclerose311.github.io%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa)
 
 
 ## Creator / Maintainer :man_technologist:
 
-👤 Masahiro Yamada ([hightecular95908](https://github.com/hightecular95908))
+👤 Masahiro Yamada ([miraclerose311](https://github.com/miraclerose311))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/hightecular95908"> 
+	<a href="https://www.linkedin.com/in/miraclerose311"> 
     	<img alt="Connect via LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   	</a>
 	<a href="mailto:pioneer95908@gmail.com"> 
 		<img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.twitter.com/hightecular95908"> 
+	<a href="https://www.twitter.com/miraclerose311"> 
     	<img alt="Connect via Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   	</a>
 </p>
@@ -504,7 +504,7 @@ If you like my content or find this code useful, give it a ⭐.
 
 Contributions, Issues and Feature requests are Welcome!
 
-Feel free to check the [Issues page](https://github.com/hightecular95908/hightecular95908.github.io/issues/).
+Feel free to check the [Issues page](https://github.com/miraclerose311/miraclerose311.github.io/issues/).
 
 
 ## Contributors ✨
@@ -520,10 +520,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://hightecular95908.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Masahiro Yamada</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Code">💻</a> <a href="#ideas-hightecular95908" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Tests">⚠️</a> <a href="#maintenance-hightecular95908" title="Maintenance">🚧</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/commits?author=hightecular95908" title="Documentation">📖</a> <a href="#design-hightecular95908" title="Design">🎨</a> <a href="https://github.com/hightecular95908/hightecular95908.github.io/pulls?q=is%3Apr+reviewed-by%3Ahightecular95908" title="Reviewed Pull Requests">👀</a> <a href="#content-hightecular95908" title="Content">🖋</a> <a href="#a11y-hightecular95908" title="Accessibility">️️️️♿️</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/hightecular95908/hightecular95908.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://miraclerose311.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Masahiro Yamada</b></sub></a><br /><a href="https://github.com/miraclerose311/miraclerose311.github.io/commits?author=miraclerose311" title="Code">💻</a> <a href="#ideas-miraclerose311" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/miraclerose311/miraclerose311.github.io/commits?author=miraclerose311" title="Tests">⚠️</a> <a href="#maintenance-miraclerose311" title="Maintenance">🚧</a> <a href="https://github.com/miraclerose311/miraclerose311.github.io/commits?author=miraclerose311" title="Documentation">📖</a> <a href="#design-miraclerose311" title="Design">🎨</a> <a href="https://github.com/miraclerose311/miraclerose311.github.io/pulls?q=is%3Apr+reviewed-by%3Amiraclerose311" title="Reviewed Pull Requests">👀</a> <a href="#content-miraclerose311" title="Content">🖋</a> <a href="#a11y-miraclerose311" title="Accessibility">️️️️♿️</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/anchal-p-908643b6/"><img src="https://avatars.githubusercontent.com/u/73632448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anchal Pandey</b></sub></a><br /><a href="https://github.com/miraclerose311/miraclerose311.github.io/issues?q=author%3Acode1511" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/miraclerose311/miraclerose311.github.io/issues?q=author%3Aemmalearnscode" title="Bug reports">🐛</a> <a href="#ideas-emmalearnscode" title="Ideas, Planning, & Feedback">🤔</a> <a href="#a11y-emmalearnscode" title="Accessibility">️️️️♿️</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/NarpatAanjana"><img src="https://avatars.githubusercontent.com/u/86047565?v=4?s=100" width="100px;" alt="Narpat Aanjana"/><br /><sub><b>Narpat Aanjana</b></sub></a><br /><a href="https://github.com/miraclerose311/miraclerose311.github.io/issues?q=author%3ANarpatAanjana" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 

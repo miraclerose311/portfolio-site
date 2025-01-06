@@ -29,10 +29,9 @@
 				[attr.data-wow-delay]="[project['delay']]">
 				<ng-template #title><strong>
 						<em>Click To Checkout My Code.</em>
-					</strong></ng-template><a class="item-box m-2" [placement]="[project['placement']]"
-					[ngbTooltip]="title" rel="noreferrer" aria-label="project(opens in a new tab)" href="https://github.com/hightecular95908/{{
-						project['github']
-					}}" target="_blank"><img class="item-container img-fluid mx-auto" src="assets/images/portfolio/{{
+					</strong></ng-template>
+				<div class="item-box m-2" [placement]="[project['placement']]" [ngbTooltip]="title" rel="noreferrer"
+					aria-label="project(opens in a new tab)" target="_blank"><img class="item-container img-fluid mx-auto" src="assets/images/portfolio/{{
 							project['project']
 						}}.webp" alt="{{ project['project'].replaceAll('-', ' ') }}"
 						title="{{ project['project'].replaceAll('-', ' ') }}" width="698" height="543" loading="lazy" />
@@ -46,7 +45,7 @@
 							</p>
 						</div>
 					</div>
-				</a>
+				</div>
 			</div>
 		</div>
 	</div>

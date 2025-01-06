@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "hightecular95908",
+      "login": "miraclerose311",
       "name": "Masahiro Yamada",
       "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
-      "profile": "http://hightecular95908.github.io",
+      "profile": "http://miraclerose311.github.io",
       "contributions": [
         "code",
         "ideas",
@@ -53,8 +53,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "hightecular95908.github.io",
-  "projectOwner": "hightecular95908",
+  "projectName": "miraclerose311.github.io",
+  "projectOwner": "miraclerose311",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
