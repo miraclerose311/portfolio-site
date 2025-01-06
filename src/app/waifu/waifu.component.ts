@@ -92,7 +92,7 @@ export class WaifuComponent implements OnInit {
 		},
 		'fa-info-circle': (event: any) => {
 			event.preventDefault();
-			open("https://github.com/hightecular95908/hightecular95908.github.io/");
+			open("https://github.com/miraclerose311/miraclerose311.github.io/");
 		},
 		'fa-times': (event: any) => {
 			event.preventDefault();

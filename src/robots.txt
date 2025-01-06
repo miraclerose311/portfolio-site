@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://hightecular95908.github.io/sitemap_index.xml
+Sitemap: http://miraclerose311.github.io/sitemap_index.xml

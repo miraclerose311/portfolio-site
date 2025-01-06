@@ -3,7 +3,7 @@
 	"version": 1,
 	"newProjectRoot": "projects",
 	"projects": {
-		"hightecular95908": {
+		"miraclerose311": {
 			"projectType": "application",
 			"schematics": {
 				"@schematics/angular:application": {
@@ -91,10 +91,10 @@
 					"builder": "@angular-devkit/build-angular:dev-server",
 					"configurations": {
 						"production": {
-							"browserTarget": "hightecular95908:build:production"
+							"browserTarget": "miraclerose311:build:production"
 						},
 						"development": {
-							"browserTarget": "hightecular95908:build:development"
+							"browserTarget": "miraclerose311:build:development"
 						}
 					},
 					"defaultConfiguration": "development"
@@ -102,7 +102,7 @@
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
 					"options": {
-						"browserTarget": "hightecular95908:build"
+						"browserTarget": "miraclerose311:build"
 					}
 				},
 				"test": {
